@@ -1,0 +1,4 @@
+
+OPTIMAL (within EQTOL=1.0e-06, STATTOL=1.0e-05, COMPTOL=1.0e-06).
+Solve time: 1279.054 ms (410 iterations)
+
